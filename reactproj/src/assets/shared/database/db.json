@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": "102",
+      "prod_name": "Mouse",
+      "price": "2000",
+      "pcompany": "dell",
+      "pquantity": 17
+    },
+    {
+      "id": "c869",
+      "prod_name": "iphone 12 pro",
+      "price": "150000",
+      "pcompany": "Apple",
+      "pquantity": "5"
+    },
+    {
+      "id": "813e",
+      "prod_name": "monster",
+      "price": "55000",
+      "pcompany": "samsung",
+      "pquantity": "1"
+    },
+    {
+      "id": "b3f1",
+      "prod_name": "honor mobile",
+      "price": "150000",
+      "pcompany": "honor",
+      "pquantity": "2"
+    },
+    {
+      "id": "4f5e",
+      "prod_name": "iphone 12 pro",
+      "price": "150000",
+      "pcompany": "HP",
+      "pquantity": "10"
+    }
+  ],
+  "users": [
+    {
+      "id": "5",
+      "userid": "admin@gmail.com",
+      "userpass": "admin@123"
+    },
+    {
+      "id": "7",
+      "userid ": "arun@gmail.com",
+      "userpass": "admin@123"
+    },
+    {
+      "id": "7",
+      "userid ": "run@gmail.com",
+      "userpass": "admin@123"
+    },
+    {
+      "id": "7",
+      "userid ": "sam@gmail.com",
+      "userpass": "admin@123"
+    }
+  ]
+}
